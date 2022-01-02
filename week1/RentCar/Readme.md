@@ -1,3 +1,6 @@
+Week2 is part of Week1. Here, Easily could seen images for every CRUD operations.
+
+
 Simulated a little part of "rent a car system". The part which considered below is Car table responding pseudo database (a generic list for this case).
 ```ruby
 public class Car
