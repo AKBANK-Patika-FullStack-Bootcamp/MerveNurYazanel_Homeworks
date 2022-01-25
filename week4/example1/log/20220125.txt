@@ -1,0 +1,19 @@
+1/25/2022 2:27:20 AM: Tüm elemanlar silindi.
+1/25/2022 2:44:39 AM: 4 id'li bir eleman oluşturuldu.
+1/25/2022 4:45:10 AM: 4 id'li bir eleman oluşturuldu.
+1/25/2022 4:46:31 AM: 5 id'li bir eleman oluşturuldu.
+1/25/2022 5:03:52 AM: 6 id'li bir eleman oluşturuldu.
+1/25/2022 5:22:08 AM: 7 id'li bir eleman oluşturuldu.
+1/25/2022 5:22:32 AM: 7 id'li eleman güncellendi.
+1/25/2022 5:22:55 AM: 1 id'li eleman güncellendi.
+1/25/2022 5:23:21 AM: 1 id'li eleman güncellendi.
+1/25/2022 5:23:51 AM: 8 id'li bir eleman oluşturuldu.
+1/25/2022 5:25:26 AM: 1 id'li eleman güncellendi.
+1/25/2022 5:29:35 AM: 9 id'li bir eleman oluşturuldu.
+1/25/2022 5:35:31 AM: 9 id'li eleman güncellendi.
+1/25/2022 6:40:57 AM: 11 id'li bir eleman oluşturuldu.
+1/25/2022 6:42:04 AM: 1 id'li eleman güncellendi.
+1/25/2022 6:42:26 AM: 1 id'li eleman güncellendi.
+1/25/2022 6:42:29 AM: 1 id'li eleman güncellendi.
+1/25/2022 6:42:44 AM: 1 id'li eleman güncellendi.
+1/25/2022 6:42:46 AM: 1 id'li eleman güncellendi.
