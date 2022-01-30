@@ -39,10 +39,6 @@ import dog from "./kopek.js";
 import { dogCareTime, dogClear } from "./kopekBakimUtility.js";
 
 const obj = dog;
-// console.log("Kopek Adi: " + obj.name);
-// console.log("Kopek Boyu: " + obj.height);
-// console.log(dogClear());
-// console.log("Kopek ilgi saati: " + dogCareTime * obj.weight);
 console.log("Kopek Adi: " + obj.name + "\nKopek Boyu: " + obj.height + "\n" + dogClear() + "\nKopek ilgi saati: " + dogCareTime * obj.weight);
 ```
 
@@ -77,8 +73,6 @@ const girlsPowerSum = (number) => {
  ```ruby
 const numberArray = [2, 3, 4];
 const girlsPowerFunc = numberArray.map((x) => girlsPowerSum(x));
-// girlsPowerFunc is a high order function that takes an array and implementing each element to girlsPowerSum
-//function and returning again, as an array.
 
 console.log(girlsPowerFunc);
 ```
@@ -128,7 +122,6 @@ console.log("for loop: " + reverseWord_1(word));
 ```ruby
 function reverseWord_2(str) {
     let reversed_2 = str.split("").reverse().join("");
-
     return reversed_2;
 }
 
