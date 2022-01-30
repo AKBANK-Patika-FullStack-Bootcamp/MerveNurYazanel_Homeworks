@@ -1,0 +1,19 @@
+{
+    "name": "homeworks",
+    "version": "1.0.0",
+    "description": "hm1",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "test": "hm1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "-"
+    },
+    "keywords": [
+        "hm1"
+    ],
+    "author": "merve",
+    "license": "ISC"
+}
