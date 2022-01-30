@@ -17,8 +17,11 @@ Apply CRUD operations dinamically by using Entity library.
 
 ### Week6
 For javascript:
-1_1 --> export and import example
-1_2 ---> high order function example
-1_3 --> reverse string example
+#### 1_1
+export and import example
+#### 1_2
+high order function example
+#### 1_3
+reverse string example
 
 
